@@ -7,15 +7,3 @@ end
 
 compare_these = compare(9999, 7)
   puts "#{compare_these}"
-
-
-
-
-
-
-
-  #write a function take two objects
-
-  #tell if same class
-
-  #if same class tell if same value.
